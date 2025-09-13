@@ -1,0 +1,8 @@
+# raw demos and large data
+/data/raw_demos/*
+/data/parsed/*.dem
+/data/processed/*
+/experiments/*
+*.pyc
+__pycache__/
+.env
