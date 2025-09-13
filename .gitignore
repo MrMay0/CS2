@@ -5,4 +5,4 @@
 /experiments/*
 *.pyc
 __pycache__/
-.env
+.envgit 
