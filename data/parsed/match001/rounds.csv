@@ -1,0 +1,15 @@
+match_id,round_id,duration,winner,reason
+match001,1,58.98,T,9
+match001,2,97.89,T,1
+match001,3,115.88,T,1
+match001,4,69.67,T,9
+match001,5,96.33,CT,8
+match001,6,69.28,T,9
+match001,7,94.58,T,9
+match001,8,73.11,T,9
+match001,9,126.70,T,1
+match001,10,84.11,T,9
+match001,11,117.30,T,1
+match001,12,84.14,T,9
+match001,13,102.77,CT,8
+match001,14,66.94,CT,8
